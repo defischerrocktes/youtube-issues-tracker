@@ -2,8 +2,8 @@
 
 > Automatically updated tracker for YouTube platform issues and updates
 
-**Last Update:** 26. November 2025 um 09:28
-**Total Issues:** 3
+**Last Update:** 26. November 2025 um 09:37
+**Total Issues:** 2
 
 ---
 
@@ -11,7 +11,6 @@
 
 - **Google Issue Tracker:** 1 issue
 - **YouTube Community:** 1 issue
-- **Creator Insider:** 1 issue
 
 ---
 
@@ -45,30 +44,6 @@ No known issues detected at this time, or the page structure has changed.
 
 ---
 
-## 📺 Creator Insider
-
-### 1. Warhammer 40,000: Space Marine 2 - Reclamation Update
-
-🟢 **Status:** Official `Official Update`
-
-**Description:**  
-Focus Entertainment and Saber Interactive today celebrate the release of the new Reclamation Update for Warhammer 40,000: Space Marine 2. Free for all players on Xbox Series X and Xbox Series S, today’s gameplay update comes with a new mission set in the wreckage of an Imperial Cruiser and much more.
-
-https://www.xbox.com/games/store/warhammer-40000-space-marine-2/9N9PCZWHVP2L
-
-Check out our Reclamation Update Trailer!
-
-SUBSCRIBE TO XBOX: https://xbx.lv/2EEjmaR 
-
-FOLLOW XBOX 
-https://twitter.com
-
-**Link:** [View Issue](https://www.youtube.com/watch?v=9VS3jTzs4Ps)
-
-**Date:** 25.11.2025
-
----
-
 ## ℹ️ About
 
 This tracker automatically crawls YouTube Known Issues from multiple sources:
@@ -84,6 +59,6 @@ This tracker automatically crawls YouTube Known Issues from multiple sources:
 
 ---
 
-**Generated:** 2025-11-26T09:28:38.786Z
+**Generated:** 2025-11-26T09:37:03.967Z
 **Created by:** [Defischerrocktes.de](https://defischerrocktes.de) | [GitHub](https://github.com/defischerrocktes)
 **Repository:** [youtube-issues-tracker](https://github.com/defischerrocktes/youtube-issues-tracker)
