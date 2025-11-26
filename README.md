@@ -6,7 +6,7 @@ This project automatically crawls and aggregates YouTube known issues from multi
 
 ## 🌟 Features
 
-- ✅ **Multi-Source Aggregation:** Combines data from YouTube Community, Creator Insider, and Google Issue Tracker
+- ✅ **Multi-Source Aggregation:** Combines data from YouTube Community and Google Issue Tracker
 - ✅ **Automatic Updates:** GitHub Actions runs every 6 hours to fetch latest issues
 - ✅ **Deduplication:** Smart filtering to remove duplicate issues
 - ✅ **Code Protection:** Obfuscated source code to protect crawling logic
@@ -108,11 +108,7 @@ See [.github/workflows/update-issues.yml](.github/workflows/update-issues.yml)
    - URL: https://support.google.com/youtube/threads?thread_filter=(purpose%3Aknown_issue)
    - Type: Official known issues
 
-2. **Creator Insider Channel**
-   - URL: https://www.youtube.com/@creatorinsider
-   - Type: Official YouTube updates
-
-3. **Google Issue Tracker**
+2. **Google Issue Tracker**
    - URL: https://issuetracker.google.com/issues?q=componentid:187190
    - Type: Public API issues
 

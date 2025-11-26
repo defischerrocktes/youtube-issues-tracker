@@ -15,10 +15,11 @@ export async function crawlAllIssues() {
   allIssues.push(...communityIssues);
   console.log(`   Found ${communityIssues.length} issues`);
 
-  console.log('📡 Fetching from Creator Insider...');
-  const creatorInsiderIssues = await fetchCreatorInsiderUpdates();
-  allIssues.push(...creatorInsiderIssues);
-  console.log(`   Found ${creatorInsiderIssues.length} updates`);
+  // Creator Insider removed - tracks wrong videos (Xbox etc.)
+  // console.log('📡 Fetching from Creator Insider...');
+  // const creatorInsiderIssues = await fetchCreatorInsiderUpdates();
+  // allIssues.push(...creatorInsiderIssues);
+  // console.log(`   Found ${creatorInsiderIssues.length} updates`);
 
   console.log('📡 Fetching from Google Issue Tracker...');
   const issueTrackerIssues = await crawlIssueTracker();

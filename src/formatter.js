@@ -77,14 +77,12 @@ export function generateMarkdown(issues) {
 This tracker automatically crawls YouTube Known Issues from multiple sources:
 
 - **YouTube Community:** Official known issues forum
-- **Creator Insider:** YouTube's official creator updates channel
 - **Google Issue Tracker:** Public YouTube API issues
 
 **Update Frequency:** This file is updated automatically via GitHub Actions.
 
 **Sources:**
 - [YouTube Community Known Issues](https://support.google.com/youtube/threads?thread_filter=(purpose%3Aknown_issue))
-- [Creator Insider Channel](https://www.youtube.com/@creatorinsider)
 - [Google Issue Tracker - YouTube](https://issuetracker.google.com/issues?q=componentid:187190%20status:open)
 
 ---
