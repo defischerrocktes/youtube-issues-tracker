@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Mark obfuscated files as binary to prevent diffs
+dist/* linguist-generated=true
+dist/* binary
