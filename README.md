@@ -191,7 +191,11 @@ The crawler includes comprehensive error handling:
 
 ## 📝 License
 
-MIT License
+MIT License with Attribution
+
+Copyright (c) 2025 Defischerrocktes.de
+
+**Attribution Required:** If you use this code, you must credit "Defischerrocktes.de" in your README, documentation, or application credits.
 
 ## 🤝 Contributing
 
