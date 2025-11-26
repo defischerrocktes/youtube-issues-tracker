@@ -20,7 +20,7 @@ See [YOUTUBE_ISSUES.md](YOUTUBE_ISSUES.md) for the latest tracked issues.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/youtube-issues-tracker.git
+git clone https://github.com/defischerrocktes/youtube-issues-tracker.git
 cd youtube-issues-tracker
 
 # Install dependencies
@@ -213,7 +213,7 @@ Contributions are welcome! Please:
 
 For issues or questions:
 
-1. Check [existing issues](https://github.com/YOUR_USERNAME/youtube-issues-tracker/issues)
+1. Check [existing issues](https://github.com/defischerrocktes/youtube-issues-tracker/issues)
 2. Open a new issue if needed
 3. Provide detailed error messages and logs
 
@@ -231,4 +231,5 @@ For issues or questions:
 
 **Last Updated:** 2025-11-26
 **Status:** Active
-**Maintained by:** [Your Name]
+**Created by:** [Defischerrocktes.de](https://defischerrocktes.de) | [GitHub](https://github.com/defischerrocktes)
+**License:** MIT with Attribution

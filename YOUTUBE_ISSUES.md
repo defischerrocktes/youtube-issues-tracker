@@ -31,4 +31,5 @@ This tracker automatically crawls YouTube Known Issues from multiple sources:
 ---
 
 **Run `npm run dev` to generate issues**
-**Powered by:** [YouTube Issues Tracker](https://github.com/YOUR_USERNAME/youtube-issues-tracker)
+**Created by:** [Defischerrocktes.de](https://defischerrocktes.de) | [GitHub](https://github.com/defischerrocktes)
+**Repository:** [youtube-issues-tracker](https://github.com/defischerrocktes/youtube-issues-tracker)
