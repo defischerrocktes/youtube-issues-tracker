@@ -2,7 +2,7 @@
 
 > Automatically updated tracker for YouTube platform issues and updates
 
-**Last Update:** 3. Mai 2026 um 07:44
+**Last Update:** 3. Mai 2026 um 12:40
 **Total Issues:** 2
 
 ---
@@ -31,14 +31,14 @@ No open YouTube API issues found, or page structure changed
 
 ## 💬 YouTube Community
 
-### 1. YouTube Community (No Recent Known Issues)
+### 1. YouTube Community (Crawler Error)
 
-🔵 **Status:** Monitoring `Known Issue`
+⚠️ **Status:** Error `Known Issue`
 
 **Description:**  
-No known issues detected at this time, or the page structure has changed.
+Error fetching data: request to https://support.google.com/youtube/threads?thread_filter=(purpose%3Aknown_issue)&sjid=16700061819352132796-EU failed, reason: 
 
-**Link:** [View Issue](https://support.google.com/youtube/threads?thread_filter=(purpose%3Aknown_issue)&sjid=16700061819352132796-EU)
+**Link:** [View Issue](https://support.google.com/youtube/threads?thread_filter=(purpose%3Aknown_issue))
 
 **Date:** 3.5.2026
 
@@ -59,6 +59,6 @@ This tracker automatically crawls YouTube Known Issues from multiple sources:
 
 ---
 
-**Generated:** 2026-05-03T07:44:11.869Z
+**Generated:** 2026-05-03T12:40:45.365Z
 **Created by:** [Defischerrocktes.de](https://defischerrocktes.de) | [GitHub](https://github.com/defischerrocktes)
 **Repository:** [youtube-issues-tracker](https://github.com/defischerrocktes/youtube-issues-tracker)
