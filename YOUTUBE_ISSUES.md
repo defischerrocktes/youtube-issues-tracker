@@ -2,7 +2,7 @@
 
 > Automatically updated tracker for YouTube platform issues and updates
 
-**Last Update:** 20. Mai 2026 um 08:49
+**Last Update:** 20. Mai 2026 um 14:29
 **Total Issues:** 2
 
 ---
@@ -59,6 +59,6 @@ This tracker automatically crawls YouTube Known Issues from multiple sources:
 
 ---
 
-**Generated:** 2026-05-20T08:49:44.145Z
+**Generated:** 2026-05-20T14:29:23.558Z
 **Created by:** [Defischerrocktes.de](https://defischerrocktes.de) | [GitHub](https://github.com/defischerrocktes)
 **Repository:** [youtube-issues-tracker](https://github.com/defischerrocktes/youtube-issues-tracker)
