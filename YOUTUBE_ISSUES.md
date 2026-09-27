@@ -2,7 +2,7 @@
 
 > Automatically updated tracker for YouTube platform issues and updates
 
-**Last Update:** 26. September 2026 um 20:17
+**Last Update:** 27. September 2026 um 02:12
 **Total Issues:** 2
 
 ---
@@ -25,7 +25,7 @@ No open YouTube API issues found, or page structure changed
 
 **Link:** [View Issue](https://issuetracker.google.com/issues?q=componentid:187190%20status:open)
 
-**Date:** 26.9.2026
+**Date:** 27.9.2026
 
 ---
 
@@ -40,7 +40,7 @@ No known issues detected at this time, or the page structure has changed.
 
 **Link:** [View Issue](https://support.google.com/youtube/threads?thread_filter=(purpose%3Aknown_issue)&sjid=16700061819352132796-EU)
 
-**Date:** 26.9.2026
+**Date:** 27.9.2026
 
 ---
 
@@ -59,6 +59,6 @@ This tracker automatically crawls YouTube Known Issues from multiple sources:
 
 ---
 
-**Generated:** 2026-09-26T20:17:06.664Z
+**Generated:** 2026-09-27T02:12:10.400Z
 **Created by:** [Defischerrocktes.de](https://defischerrocktes.de) | [GitHub](https://github.com/defischerrocktes)
 **Repository:** [youtube-issues-tracker](https://github.com/defischerrocktes/youtube-issues-tracker)
